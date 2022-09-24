@@ -1,2 +1,2 @@
 # CSE274-GPS
-A program similar to a GPS, calculating the least costly path between two points.
+Program that reads in a pre-defined file of symbols and addresses that represent a map. Calculates least costly path from one point to another. Allows user to choose preference between distance or time cost and for symbols or for addresses.
